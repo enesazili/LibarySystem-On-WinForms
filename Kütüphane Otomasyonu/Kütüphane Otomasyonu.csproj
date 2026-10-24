@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{703D611B-2F7C-44B3-914D-6299C8FF38EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kütüphane_Otomasyonu</RootNamespace>
+    <AssemblyName>Kütüphane Otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connStr.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmKitapIade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmKitapIade.Designer.cs">
+      <DependentUpon>frmEmKitapIade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmKitapList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmKitapList.Designer.cs">
+      <DependentUpon>frmEmKitapList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmKitapVerme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmKitapVerme.Designer.cs">
+      <DependentUpon>frmEmKitapVerme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapEkle.Designer.cs">
+      <DependentUpon>frmKitapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapList.Designer.cs">
+      <DependentUpon>frmKitapList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKulEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKulEkle.Designer.cs">
+      <DependentUpon>frmKulEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKulList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKulList.Designer.cs">
+      <DependentUpon>frmKulList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmKitapIade.resx">
+      <DependentUpon>frmEmKitapIade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmKitapList.resx">
+      <DependentUpon>frmEmKitapList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmKitapVerme.resx">
+      <DependentUpon>frmEmKitapVerme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapEkle.resx">
+      <DependentUpon>frmKitapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapList.resx">
+      <DependentUpon>frmKitapList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKulEkle.resx">
+      <DependentUpon>frmKulEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKulList.resx">
+      <DependentUpon>frmKulList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kEkle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kList1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitapVer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exchange1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\library1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bookadd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\checklist1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

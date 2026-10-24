@@ -1,0 +1,34 @@
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKulEkle.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKulList.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKitapEkle.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKitapList.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmEmKitapVerme.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmEmKitapList.resources
+F:\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmEmKitapIade.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmEmKitapIade.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmEmKitapList.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmEmKitapVerme.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKitapEkle.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKitapList.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKulEkle.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.frmKulList.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+D:\Workspace\C#\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
